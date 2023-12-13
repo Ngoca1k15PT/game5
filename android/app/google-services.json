@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "982719461757",
+    "firebase_url": "https://machine-fun-unicorn-default-rtdb.firebaseio.com",
+    "project_id": "machine-fun-unicorn",
+    "storage_bucket": "machine-fun-unicorn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982719461757:android:e570fc77b967bc28363414",
+        "android_client_info": {
+          "package_name": "com.machineslotsoffunlucky1233"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt9qP_TFXIBKKaGntultgyhOIR_IjVbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
